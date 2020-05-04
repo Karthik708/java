@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.spring.basics.practicewebservices.SortAlgorithm"/>
+<fullyQualifiedTypeName name="com.spring.basics.practicewebservices.BubbleSortAlgorithm"/>
+<fullyQualifiedTypeName name="com.spring.basics.practicewebservices.BinarySearchImpl"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties.LocaleResolver"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.i18n.SessionLocaleResolver"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.LocaleResolver"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ResourceBundleMessageSource"/>
+<fullyQualifiedTypeName name="org.springframework.context.MessageSource"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestHeader"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="org.springframework.context.i18n.LocaleContextHolder"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver"/>
+<fullyQualifiedTypeName name="com.learn.microservices.limitsservice.bean.LimitConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+<fullyQualifiedTypeName name="com.learn.microservices.limitsservice.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.SpringCloudApplication"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PatchMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="com.learn.microservices.currencyexchangeservice.ExchangeValue"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>

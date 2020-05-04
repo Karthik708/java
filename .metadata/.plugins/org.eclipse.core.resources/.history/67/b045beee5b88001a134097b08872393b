@@ -1,0 +1,5 @@
+package com.learn.microservices.limitsservice;
+
+public class Configuration {
+
+}
